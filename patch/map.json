@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "source": "src/main.js",
+            "destination": "/var/www/html/js/main.js"
+        },
+        {
+            "source": "src/style.css",
+            "destination": "/var/www/html/css/style.css"
+        },
+        {
+            "source": "src/index.html",
+            "destination": "/var/www/html/index.html"
+        }
+    ]
+}
