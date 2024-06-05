@@ -5,6 +5,7 @@ This is repo is used to store files used by [NyxHub](https://github.com/0-Whoami
 # Documentation 
 <details open>
   <summary>File Tree Details</summary>
+  
   ```
   fonts                    # As the name suggests this is the directory that contains custom font in *.ttf format
   
@@ -17,7 +18,7 @@ This is repo is used to store files used by [NyxHub](https://github.com/0-Whoami
           |-README.md      # This file contains the documentation and Setups
   
   patch                    # This folder contains patch for the Termux Bootstrap so it can work on Nyx
-  ```
+```
 </details>
 
 # Contribution 
